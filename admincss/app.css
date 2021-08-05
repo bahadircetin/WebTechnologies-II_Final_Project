@@ -1,0 +1,17 @@
+body { font-family: Helvetica;}
+table { margin: 20px auto; border-collapse: collapse}
+th, td { border-bottom: 1px solid #AAA; padding: 10px; text-align: center;} 
+p, h1, h2 { text-align: center;}
+td img { width: 20px;}
+#down { width: 10px; margin-left:10px;}
+a { text-decoration: none;}
+#paging a { margin-left: 10px; margin-right:10px; color: #888; }
+#paging .active { font-weight: bold; color: blue;}
+p.error { color: red; }
+p.success { color: green; }
+#btnn{
+    width: 105px;
+  
+  margin:0 auto;
+ 
+}
