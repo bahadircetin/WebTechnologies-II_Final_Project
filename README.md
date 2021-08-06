@@ -9,8 +9,7 @@ Group Members: Seyit Bahadır Çetin, Ufuk Çağatay Doğan
 Database name:  ctis2566 and it contains movies, login2, tables.  It is created on MySQL DBMS
 There are 2 types of user which are user, and admin.
 
-Responsibility of users
-
+### Project Features
 1.	Users can display movies and their ratings.
 2.	Users can add movies to their watchlist.
 3.	Admin can add and delete movies.
